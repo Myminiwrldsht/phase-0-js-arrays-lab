@@ -10,12 +10,12 @@ function logFirstProduct() {
 
 function addProduct() {
 
-  products.push("Keyboard");
+  products.push("Tablet");
 }  
 
 function updateProductName(position, newName) {
 
-products[2] = "Earphones";
+products[1] = "Smartphone";
 } 
 
 function removeLastProduct() {
